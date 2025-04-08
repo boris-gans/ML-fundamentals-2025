@@ -2,3 +2,6 @@
 .DS_Store
 *.ipynb_checkpoints
 *bike_sharing_eda.py
+*dummy.py
+*.pyc
+__pycache__/
