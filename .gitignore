@@ -3,5 +3,6 @@
 *.ipynb_checkpoints
 *bike_sharing_eda.py
 *dummy.py
+*eda.py
 *.pyc
 __pycache__/
